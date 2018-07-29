@@ -2097,9 +2097,6 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qYJ3nVAGkB LABEL {
-  color: #767676;
-}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2166,4 +2163,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 P {
+  text-align: left;
 }
