@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "GretchenFlat",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -93,8 +93,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Уютная квартира \"Грэтхен\" в аренду",
+        "meta_descr": "В аренду в СВАО Алексеевский район, ВДНХ, рядом с Сокольники сдаётся 3-х комнатная квартира на длительный срок.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
