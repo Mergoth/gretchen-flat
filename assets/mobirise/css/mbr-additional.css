@@ -2070,6 +2070,47 @@ body {
 .cid-qZcyWk9hah blockquote {
   color: #767676;
 }
+.cid-qZt7i0176y {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/dsc-6071-2000x1335.jpg");
+  position: relative;
+}
+.cid-qZt7i0176y p {
+  color: #767676;
+}
+.cid-qZt7i0176y .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qZt7i0176y .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qZt7i0176y .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-qZt7i0176y .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qZt7i0176y .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-qZt7i0176y .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qZt7i0176y .panel-text {
+  color: #073b4c;
+}
 .cid-qYJ3nVAGkB {
   padding-top: 90px;
   padding-bottom: 90px;
